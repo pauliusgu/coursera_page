@@ -1,0 +1,73 @@
+
+
+body {
+  font-size: 16px;
+  background-color: #ffbf00;
+ 
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #00bfff;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000080;
+}
+.navbar-header button.navbar-toggle {
+  margin-top: 20px;
+}
+
+#collapsable-nav a {
+  font-size: 1.3em;
+  text-align: center;
+  background-color: #ccffff;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+h1 {
+  color: #663399;
+  padding-left: 20px;
+  font-family: "Arial Black", Gadget, sans-serif; 
+  font-size: 29px; 
+  font-style: normal; 
+  font-weight: bold;
+
+}
+
+h2 {
+  color: #002080;
+font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 2em; 
+padding-top: 10px;
+margin-top: 1px;
+font-weight: 50;
+}
+
+h3 {
+font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 1.5em; 
+padding-top: 10px;
+margin-top: 1px;
+font-weight: 50;
+}
+
+#main-container div {
+margin: 50px;
+}
+
+#chicken-container p {
+  width: 100%;
+  background-color: red;
+  color: #00ff00;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  padding: 20px;
+}
+
+#chicken-container {
+  background-color: red;
+  margin-bottom: 30px;
+}
